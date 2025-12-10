@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Just Spices – Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Privacy Policy for the Just Spices mobile app." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main class="container">
+
+    <h1>Privacy Policy</h1>
+    <p>Effective Date: January 2025</p>
+
+    <div class="card">
+      <h2>1. Overview</h2>
+      <p>
+        Just Spices (“we,” “our,” or “us”) respects your privacy. This Privacy Policy
+        explains how information is handled when you use the Just Spices mobile app.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>2. Information We Collect</h2>
+      <p>
+        Just Spices does <strong>not</strong> require account creation and does
+        <strong>not</strong> collect personal identifying information such as your name,
+        address, phone number, or payment details.
+      </p>
+      <p>
+        The app may store pantry-related data locally on your device (such as your
+        spice inventory) for functionality purposes only.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>3. Barcode Scanning</h2>
+      <p>
+        When you scan a barcode, Just Spices uses third-party product databases to
+        identify the item. Barcode data may be transmitted temporarily to retrieve
+        matching product information.
+      </p>
+      <p>
+        We do not sell, rent, or personally identify users through barcode scans.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>4. Data Usage</h2>
+      <p>
+        Any pantry data stored in the app is used solely to provide the app’s
+        features, such as tracking your spices and preventing duplicate purchases.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>5. Data Sharing</h2>
+      <p>
+        We do <strong>not</strong> sell, trade, or share your personal data with third
+        parties for advertising or marketing purposes.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>6. Data Security</h2>
+      <p>
+        We take reasonable measures to protect your data. However, no method of
+        electronic transmission or storage is 100% secure.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>7. Children's Privacy</h2>
+      <p>
+        Just Spices is not intended for children under the age of 13, and we do not
+        knowingly collect personal information from children.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>8. Changes to This Policy</h2>
+      <p>
+        We may update this Privacy Policy from time to time. Any changes will be
+        reflected on this page with a new effective date.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>9. Contact</h2>
+      <p>
+        If you have questions about this Privacy Policy, you may contact us at:
+      </p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:justspicesapp@gmail.com">justspicesapp@gmail.com</a>
+      </p>
+    </div>
+
+    <footer class="page-footer">
+      © 2025 Just Spices App — All Rights Reserved
+    </footer>
+
+  </main>
+
+</body>
+</html>
