@@ -5,14 +5,15 @@ body {
   color: #e2e8f0;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
+  align-items: flex-start;
+  min-height: 100vh;
 }
 
 .container {
   text-align: center;
-  max-width: 500px;
-  padding: 40px;
+  max-width: 720px;
+  padding: 60px 24px;
+  width: 100%;
 }
 
 .logo {
@@ -25,15 +26,23 @@ h1 {
   margin-bottom: 12px;
 }
 
+h2 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  color: #a855f7;
+}
+
 p {
   color: #94a3b8;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  line-height: 1.6;
 }
 
 .buttons {
   display: flex;
   gap: 16px;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .btn {
@@ -48,5 +57,21 @@ p {
 .btn.outline {
   background: transparent;
   border: 2px solid #a855f7;
+  color: #a855f7;
 }
 
+.card {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 16px;
+  padding: 24px;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.page-footer {
+  margin-top: 60px;
+  font-size: 0.8rem;
+  color: #64748b;
+  text-align: center;
+}
